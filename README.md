@@ -3,8 +3,7 @@
 
 Display of App 
     <a href="https://www.loom.com/share/bc5e8cc27ca145cda8ca46b7816a7f50">
-    <a href="https://www.loom.com/share/bc5e8cc27ca145cda8ca46b7816a7f50">
-      <img style="max-width:300px;" src="null">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/bc5e8cc27ca145cda8ca46b7816a7f50-with-play.gif">
     </a>
 
 ## Overview
